@@ -9057,10 +9057,10 @@ react-scripts@4.0.3:
   optionalDependencies:
     fsevents "^2.1.3"
 
-react-tridi@2.0.0-beta.6:
-  version "2.0.0-beta.6"
-  resolved "https://registry.yarnpkg.com/react-tridi/-/react-tridi-2.0.0-beta.6.tgz#62b53ed72d88e9ae10c598c1f07357c20d929918"
-  integrity sha512-rTPBH6qaSUVUmXOVYbd62LrN9WkDjGCYJwZwmcdoSoyC6hviodfmrftym1deO6/W1HriPU03/NK3wIIleXG28w==
+react-tridi@2.0.0-beta.7:
+  version "2.0.0-beta.7"
+  resolved "https://registry.yarnpkg.com/react-tridi/-/react-tridi-2.0.0-beta.7.tgz#b48a8f0555c26db295f6fd5f2d3428b2223f3f4d"
+  integrity sha512-PUkg2IxBaolN98LXnsCaQvUMEFz+tpDkY1Xwkg6r9YJYpI5MikrL7hJVi51Iq/ScGaxprnDOsO5UG8rQaSa2eg==
   dependencies:
     animated "^0.2.2"
     hammerjs "^2.0.8"
